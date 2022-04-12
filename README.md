@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felix Valerio
 
-# "Be the change you wish to see in the world." ### Author: Mahatma Gandhi
+# "Be the change you wish to see in the world." | Author: Mahatma Gandhi
 
 
 - 👀 I’m interested in growing as a IT professional, continue Learning everyday and help others to be better.
