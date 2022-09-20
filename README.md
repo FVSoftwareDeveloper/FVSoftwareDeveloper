@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Accounting Software**
 
-- 🌱 I’m currently learning **Android with Java**
+- 🌱 I’m currently learning **Android with Java** and **Symfony**
 
 - 👯 I’m looking to collaborate on **PHP (Legacy or Laravel)**
 
