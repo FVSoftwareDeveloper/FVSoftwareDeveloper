@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Accounting Software**
 
-- 🌱 I’m currently learning **Android with Java** and **Symfony**
+- 🌱 I’m currently learning **Android with Java**
 
-- 👯 I’m looking to collaborate on **PHP (Legacy or Laravel)**
+- 👯 I’m looking to collaborate on **PHP (Legacy or Laravel/Symfony)**
 
 - 🤝 I’m looking for help with **Mentoring people**
 
 - 📝 I regularly write articles on [https://fta.edu.do/category/blog/tecnologiaeinnovacion/](https://fta.edu.do/category/blog/tecnologiaeinnovacion/)
 
-- 💬 Ask me about **PHP, Vue.js, Nuxt.js, Laravel and Lumen**
+- 💬 Ask me about **PHP, Vue.js, Nuxt.js, Laravel and Lumen, Symfony**
 
 - 📫 How to reach me on LinkedIn **https://www.linkedin.com/in/felix-valerio-0703043b/**
 
